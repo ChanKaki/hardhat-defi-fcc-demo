@@ -1,0 +1,8 @@
+.env
+node_modules
+.env
+cache
+artifacts
+
+# local env files
+.env
